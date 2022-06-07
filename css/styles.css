@@ -1,0 +1,98 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    text-align: center;
+    color: #3A3845;
+}
+
+.container-color {
+    background-color: aquamarine;
+}
+
+.default-container {
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.section-title {
+    padding: 50px auto;
+}
+
+/* Title Section */
+
+.my-navbar {
+    text-align: right;
+    padding-top: 30px;
+    padding-right: 50px;
+}
+
+.my-nav-item {
+    margin-top: 40px;
+    padding-right: 20px;
+    text-decoration: none;
+    font-size: 1.3rem;
+    color: #3A3845;
+}
+
+.title-container {
+    padding: 300px;
+}
+
+.subtitle {
+    font-size: 1.3rem;
+    font-weight: 500;
+    line-height: 30px;
+    vertical-align: middle;
+}
+
+.title-text {
+    font-family: 'Berkshire Swash', cursive;
+    font-weight: 700;
+    font-size: 4rem;
+    padding: 0 auto;
+}
+
+#title {
+    background-image: url(images/background.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+/* About Section */
+
+.description {
+    width: 430px;
+    margin: 30px auto;
+    font-size: 1.3rem;
+}
+
+.profile-img {
+    width: 10%;
+    border-radius: 50%;
+    margin-top: 100px;
+}
+
+/* Skills Section */
+
+.skill-img {
+    height: 100px;
+    margin: 50px;
+}
+
+/* Footer */
+
+.copyright {
+    margin-bottom: 0;
+    display: inline-block;
+}
+
+.footer-container {
+    background-color: #3A3845;
+    color: white;
+}
+
+.social-link {
+    padding: 50px 20px;
+    text-decoration: none;
+    color: white;
+}
